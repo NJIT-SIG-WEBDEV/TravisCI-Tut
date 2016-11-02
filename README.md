@@ -1,16 +1,14 @@
-# Webpack-Tut
-Working with Webpack
+# Travis-Tut
+Working with Travis
 
-Webpack is the new leader in Module Loading Management System. It also added functionalities to use plugins, which automatically organizes, uglifies, minifies, and orders your code among other things. This combined the workload of requireJs and Grunt into one, which is easier for the developers. 
-
-It is also the best module loader to use with React, which is the fastest growing MVC on the stack. 
+Travis is a Continuous Integration software that syncs with your Github projects so you can make sure your code builds and runs correctly everyime you push or crate a pull request. Constant checking ensures that you don't have to backtrack too long should a problem arise.
 
 
-Website: https://webpack.github.io/
+Website: https://travis-ci.org/
 
-Simple Webpack Configuration:
-https://gist.github.com/learncodeacademy/25092d8f1daf5e4a6fd3
+Simple Nodejs Travis yaml Configuration:
+https://gist.github.com/AliKalkandelen/cbcbc8881f7a81e4d123bf5e9dc02761
 
 
 Youtube Video:
-https://www.youtube.com/watch?v=9kJVYpOqcVU
+https://www.youtube.com/watch?v=Uft5KBimzyk
